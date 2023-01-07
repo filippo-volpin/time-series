@@ -25,7 +25,6 @@ I describe the asymptotic properties of the following time series:
     * ### $x_t^{TSB} = μ_1 1_{\left(t ≤ t^{\star} \right)} + μ_2 1_{\left(t > t^{\star} \right)} + ɛ_t = μ_1 + δ 1_{\left(t > t^{\star} \right)}  + ɛ_t$
         - $δ = (μ_2 - μ_1)$
         - $ε_t∼i.i.d.(0,σ_{ε}^{2})$
-        - $\underset{T → ∞}{lim}~\dfrac{1}{T} \cdot {\sum_{t=1}^{T}} 1_{\left(t > t^{\star} \right)} = \dfrac{~T^{\star}}{~T~~} = λ \in (0,1)$
 
 * ### Deterministic Trend with Constant and Error Term
     *  ### $x_t^{DT} = α + βt + ε_t$
